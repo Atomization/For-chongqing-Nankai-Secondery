@@ -45,3 +45,5 @@
 &emsp;&emsp;我仍是一个南开人，我也希望自己永远是南开人，不在这三个字前头增添“中大”或是其他任何的前缀。
 
 &emsp;&emsp;祝南开生日快乐！
+
+<font color=DarkGray>Edited Oct 7,2017</font>
